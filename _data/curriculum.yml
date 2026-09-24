@@ -1,0 +1,24 @@
+- discipline: "Data Structures and Algorithms"
+  folder: "main"
+  subjects:
+    - name: "Algorithms"
+      folder: "algorithms"
+      categories:
+        - name: "Cryptography"
+          folder: "cryptography"
+        - name: "Graph"
+          folder: "graph"
+        - name: "Branch and Bound"
+          folder: "image-processing"
+        - name: "Linked List"
+          folder: "linked-list"
+        - name: "Dynamic Programming"
+          folder: "math"
+
+    - name: "Data Structures"
+      folder: "data-structures"
+      categories:
+        - name: "Trees"
+          folder: "tree"
+        - name: "Graphs"
+          folder: "graph"
