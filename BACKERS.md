@@ -20,7 +20,7 @@
     <td align="center">
       <a href="[PROFILE_URL]">
         <img
-          src="[PROFILE_IMG_SRC]"
+          main="[PROFILE_IMG_SRC]"
           width="50"
           height="50"
         />
@@ -37,7 +37,7 @@
   <li>
     <a href="[PROFILE_URL]">
       <img
-        src="[PROFILE_IMG_SRC]"
+        main="[PROFILE_IMG_SRC]"
         width="30"
         height="30"
       /></a>

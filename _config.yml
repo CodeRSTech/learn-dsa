@@ -1,0 +1,13 @@
+title: Learn
+description: A multi-disciplinary learning reference guide.
+theme: jekyll-theme-minimal
+baseurl: "/learn-algorithms"
+plugins:
+  - jekyll-relative-links
+  - jekyll-tabs
+exclude:
+  - node_modules
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
